@@ -14,5 +14,5 @@ setup(
         'stanfordnlp>=0.2.0',
         'transformers>=2.1.1'
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.6',
 )
